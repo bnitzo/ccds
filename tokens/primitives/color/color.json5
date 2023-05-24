@@ -1,0 +1,22 @@
+{
+  primitives: {
+    color: {
+      green: {
+        '100': {$value: '#CCFA9D', $type: 'color'},
+        '200': {$value: '#A4E068', $type: 'color'},
+        '300': {$value: '#81B64C', $type: 'color'},
+        '400': {$value: '#5D9948', $type: 'color'},
+        '500': {$value: '#45753C', $type: 'color'},
+        '600': {$value: '#305730', $type: 'color'},
+      },
+      red: {
+        '100': {$value: '#FFAF95', $type: 'color'},
+        '200': {$value: '#FF7259', $type: 'color'},
+        '300': {$value: '#FA412D', $type: 'color'},
+        '400': {$value: '#B22929', $type: 'color'},
+        '500': {$value: '#891115', $type: 'color'},
+        '600': {$value: '#66060E', $type: 'color'},
+      }
+    }
+  }
+}
