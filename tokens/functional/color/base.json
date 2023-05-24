@@ -1,0 +1,65 @@
+{
+  "color": {
+    "fg": {
+      "success": {
+        "dark": {
+          "value": "{primitives.color.green.300}"
+        },
+        "light": {
+          "value": "{primitives.color.green.400}"
+        },
+        "type": "color"
+      },
+      "danger": {
+        "dark": {
+          "value": "{primitives.color.red.300}"
+        },
+        "light": {
+          "value": "{primitives.color.red.400}"
+        },
+        "type": "color"
+      }
+    },
+    "bg": {
+      "success": {
+        "dark": {
+          "value": "{primitives.color.green.300}"
+        },
+        "light": {
+          "value": "{primitives.color.green.400}"
+        },
+        "type": "color"
+      },
+      "danger": {
+        "dark": {
+          "value": "{primitives.color.red.300}"
+        },
+        "light": {
+          "value": "{primitives.color.red.400}"
+        },
+        "type": "color"
+      }
+    },
+    "border": {
+      "success": {
+        "dark": {
+          "value": "{primitives.color.green.300}"
+        },
+        "light": {
+          "value": "{primitives.color.green.400}"
+        },
+        "type": "color"
+      },
+      "danger": {
+        "dark": {
+          "value": "{primitives.color.red.300}"
+        },
+        "light": {
+          "value": "{primitives.color.red.400}"
+        },
+        "type": "color"
+      }
+    }
+  }
+  
+}

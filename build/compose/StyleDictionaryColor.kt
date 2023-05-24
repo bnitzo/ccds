@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 19:07:34 GMT
+// Generated on Wed, 24 May 2023 01:50:50 GMT
 
 
 
@@ -11,12 +11,16 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionaryColor {
-  val colorBaseGrayDark = Color(0xff111111)
-  val colorBaseGrayLight = Color(0xffcccccc)
-  val colorBaseGrayMedium = Color(0xff999999)
-  val colorBaseGreen = Color(0xff00ff00)
-  val colorBaseRed = Color(0xffff0000)
-  val colorFontBase = Color(0xffff0000)
-  val colorFontSecondary = Color(0xff00ff00)
-  val colorFontTertiary = Color(0xffcccccc)
+  val colorBgDangerDark = #FA412D
+  val colorBgDangerLight = #B22929
+  val colorBgSuccessDark = #81B64C
+  val colorBgSuccessLight = #5D9948
+  val colorBorderDangerDark = #FA412D
+  val colorBorderDangerLight = #B22929
+  val colorBorderSuccessDark = #81B64C
+  val colorBorderSuccessLight = #5D9948
+  val colorFgDangerDark = #FA412D
+  val colorFgDangerLight = #B22929
+  val colorFgSuccessDark = #81B64C
+  val colorFgSuccessLight = #5D9948
 }

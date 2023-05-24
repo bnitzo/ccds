@@ -4,18 +4,22 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 19:07:34 GMT
+// Generated on Wed, 24 May 2023 01:50:50 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let baseGrayDark = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
-    public static let baseGrayLight = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let baseGrayMedium = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha: 1)
-    public static let baseGreen = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
-    public static let baseRed = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let fontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let fontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
-    public static let fontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
+    public static let bgDangerDark = #FA412D
+    public static let bgDangerLight = #B22929
+    public static let bgSuccessDark = #81B64C
+    public static let bgSuccessLight = #5D9948
+    public static let borderDangerDark = #FA412D
+    public static let borderDangerLight = #B22929
+    public static let borderSuccessDark = #81B64C
+    public static let borderSuccessLight = #5D9948
+    public static let fgDangerDark = #FA412D
+    public static let fgDangerLight = #B22929
+    public static let fgSuccessDark = #81B64C
+    public static let fgSuccessLight = #5D9948
 }

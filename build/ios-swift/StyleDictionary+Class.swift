@@ -4,22 +4,34 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 19:07:34 GMT
+// Generated on Wed, 24 May 2023 01:50:50 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
-    public static let colorBaseGrayDark = UIColor(red: 0.067, green: 0.067, blue: 0.067, alpha: 1)
-    public static let colorBaseGrayLight = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let colorBaseGrayMedium = UIColor(red: 0.600, green: 0.600, blue: 0.600, alpha: 1)
-    public static let colorBaseGreen = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
-    public static let colorBaseRed = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
-    public static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
-    public static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
-    public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
-    public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
-    public static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
+    public static let colorBgDangerDark = #FA412D
+    public static let colorBgDangerLight = #B22929
+    public static let colorBgSuccessDark = #81B64C
+    public static let colorBgSuccessLight = #5D9948
+    public static let colorBorderDangerDark = #FA412D
+    public static let colorBorderDangerLight = #B22929
+    public static let colorBorderSuccessDark = #81B64C
+    public static let colorBorderSuccessLight = #5D9948
+    public static let colorFgDangerDark = #FA412D
+    public static let colorFgDangerLight = #B22929
+    public static let colorFgSuccessDark = #81B64C
+    public static let colorFgSuccessLight = #5D9948
+    public static let primitivesColorGreen100 = #CCFA9D
+    public static let primitivesColorGreen200 = #A4E068
+    public static let primitivesColorGreen300 = #81B64C
+    public static let primitivesColorGreen400 = #5D9948
+    public static let primitivesColorGreen500 = #45753C
+    public static let primitivesColorGreen600 = #305730
+    public static let primitivesColorRed100 = #FFAF95
+    public static let primitivesColorRed200 = #FF7259
+    public static let primitivesColorRed300 = #FA412D
+    public static let primitivesColorRed400 = #B22929
+    public static let primitivesColorRed500 = #891115
+    public static let primitivesColorRed600 = #66060E
 }

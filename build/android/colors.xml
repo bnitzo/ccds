@@ -2,16 +2,20 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 08 May 2023 19:07:34 GMT
+  Generated on Wed, 24 May 2023 01:50:50 GMT
 -->
 <resources>
-  <color name="color_base_gray_light">#ffcccccc</color>
-  <color name="color_base_gray_medium">#ff999999</color>
-  <color name="color_base_gray_dark">#ff111111</color>
-  <color name="color_base_red">#ffff0000</color>
-  <color name="color_base_green">#ff00ff00</color>
-  <color name="color_font_base">#ffff0000</color>
-  <color name="color_font_secondary">#ff00ff00</color>
-  <color name="color_font_tertiary">#ffcccccc</color>
+  <color name="color_fg_success_dark">#81B64C</color>
+  <color name="color_fg_success_light">#5D9948</color>
+  <color name="color_fg_danger_dark">#FA412D</color>
+  <color name="color_fg_danger_light">#B22929</color>
+  <color name="color_bg_success_dark">#81B64C</color>
+  <color name="color_bg_success_light">#5D9948</color>
+  <color name="color_bg_danger_dark">#FA412D</color>
+  <color name="color_bg_danger_light">#B22929</color>
+  <color name="color_border_success_dark">#81B64C</color>
+  <color name="color_border_success_light">#5D9948</color>
+  <color name="color_border_danger_dark">#FA412D</color>
+  <color name="color_border_danger_light">#B22929</color>
   
 </resources>
